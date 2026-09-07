@@ -542,5 +542,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-f8711015-4bb0-43b9-8fbc-be25d532f0a1.mp4",
+        "metadata": {
+            "title": "Midnight Couture Escape: Red-Carpet Glam to Discover a New City | Isellas Verenna",
+            "description": "Tonight I\u2019m taking you with me on a little luxury escape\u2014where couture meets the open road and every corner feels like a secret photoshoot waiting to happen. From statement silhouettes that whisper \u201cred carpet\u201d to beauty details that glow like city lights, this look is made for bold travelers and iconic everyday moments. I packed my confidence, a touch of wellness, and the kind of camera-ready style that turns arrival into a full-on fashion story. Whether you\u2019re dreaming of your next getaway or hunting for a glam upgrade in your own routine, let this be your sign to step out like you mean it. Like if this inspired your style! Comment your favorite look below! Share this with a friend who loves fashion! Follow Isellas Verenna for daily fashion, beauty, and lifestyle inspiration! #couture #fashion #beauty #lifestyle #glamour #luxury #photography #wellness #isellasverenna",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": false,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
