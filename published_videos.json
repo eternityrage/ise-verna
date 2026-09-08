@@ -574,5 +574,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-f8711015-4bb0-43b9-8fbc-be25d532f0a1 (4).mp4",
+        "metadata": {
+            "title": "Couture Fashion I'm Obsessed With Right Now",
+            "description": "A few quality pieces, mixed with love, go everywhere. Share this with a style friend! \ud83e\udd0d #fashion #capsulewardrobe #couture #elegance #isellasverenna",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": false,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
