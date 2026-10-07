@@ -1950,5 +1950,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-08c4b2af-a89f-4c83-9dc3-484e849c61b0-720p.mp4",
+        "metadata": {
+            "title": "Red-Carpet Beauty in Real Time: Couture Glam, Skin-First Glow & Iconic Everyday Style",
+            "description": "Today on Isellas Verenna, we\u2019re turning an ordinary moment into a red-carpet-inspired ritual\u2014think couture attitude, luxury textures, and a beauty routine that starts with skincare and ends with confidence. I\u2019m sharing the exact vibe I live for: bold yet wearable glamour, makeup that enhances (not overwhelms), and self-care steps that make you feel instantly polished\u2014like you just stepped out of a magazine spread. From the first glow to the final touch, this look is all about celebrating your skin, your style, and your story, one iconic detail at a time. If you\u2019ve been craving that \u201cI\u2019m the main character\u201d energy without losing comfort, this one is for you. Like if this inspired your style! Comment your favorite look below! Share this with a friend who loves fashion! Follow Isellas Verenna for daily fashion, beauty, and lifestyle inspiration! #couture #fashion #beauty #lifestyle #glamour #luxury #photography #wellness #isellasverenna",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": false
+        }
     }
 ]
