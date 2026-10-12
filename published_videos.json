@@ -2222,5 +2222,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-08c4b2af-a89f-4c83-9dc3-484e849c61b0-720p.mp4",
+        "metadata": {
+            "title": "Red-Carpet Glam at Home: Couture Beauty, Skincare Glow & Iconic Everyday Style by Isellas Verenna",
+            "description": "Tonight\u2019s vibe is pure couture confidence\u2014where luxury fashion meets skincare ritual and beauty becomes a personal love letter. Think red-carpet-inspired silhouettes, camera-ready details, and that \u201cI woke up luminous\u201d glow powered by intentional self-care (because glam isn\u2019t just a look, it\u2019s a feeling). I curated this moment for you like I\u2019d style it for myself: glossy textures, elevated color, and the kind of everyday confidence that turns errands into runway energy. If you\u2019ve been craving an easy-yet-iconic way to elevate your routine, let this be your reminder that beauty starts with how you choose to treat yourself. Like if this inspired your style! Comment your favorite look below! Share this with a friend who loves fashion! Follow Isellas Verenna for daily fashion, beauty, and lifestyle inspiration! #couture #fashion #beauty #lifestyle #glamour #luxury #photography #wellness #isellasverenna",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
