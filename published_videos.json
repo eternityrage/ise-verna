@@ -2238,5 +2238,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-fc7ad1cd-0d5c-4a2a-bb3f-92223be74b4f-720p.mp4",
+        "metadata": {
+            "title": "Red-Carpet Energy in Everyday Light \u2728 Capture Your Glam with Isellas Verenna",
+            "description": "Step into a world where luxury feels effortless and every frame deserves a little drama\u2014this short video is your reminder to dress like the camera is always ready. From couture-inspired silhouettes to beauty details that catch the light just right, we\u2019re chasing that red-carpet energy while celebrating the iconic moments that happen off-schedule\u2014in your city, on your commute, before your coffee, and right when you decide to glow. I want you to feel the confidence shift as you watch: the kind that says \u201cyes, this is me,\u201d bold, glamorous, and completely unapologetic. Like if this inspired your style! Comment your favorite look below! Share this with a friend who loves fashion! Follow Isellas Verenna for daily fashion, beauty, and lifestyle inspiration! #couture #fashion #beauty #lifestyle #glamour #luxury #photography #wellness #isellasverenna",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
