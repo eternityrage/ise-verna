@@ -3246,5 +3246,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-9865ba7f-96fb-4327-85b8-99e6203b620d-720p.mp4",
+        "metadata": {
+            "title": "Red-Carpet Energy, Everyday Glam: A Cozy Couture Moment with Isellas Verenna \u2728",
+            "description": "Today I\u2019m inviting you into a warm, real-life slice of glamour\u2014where couture attitude meets everyday ease. From that first outfit zip to the final glow in the mirror, this look was all about how luxury can feel personal: confident, comfortable, and undeniably you. You\u2019ll see the kind of styling details that make a street moment feel like a premiere\u2014plus a little beauty ritual and a photo-ready finish that turns \u201cjust going out\u201d into an iconic memory. Let this be your permission slip to dress like you mean it, even if your day is ordinary. Like if this inspired your style! Comment your favorite look below! Share this with a friend who loves fashion! Follow Isellas Verenna for daily fashion, beauty, and lifestyle inspiration! #couture #fashion #beauty #lifestyle #glamour #luxury #photography #wellness #isellasverenna",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
